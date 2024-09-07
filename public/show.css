@@ -1,0 +1,15 @@
+body{
+    background: radial-gradient(circle at 0.8% 1.8%, #d86b17 0%, rgb(255, 187, 103) 90.1%) !important;
+}
+
+.container{
+    margin-top: 200px;
+
+}
+h5{
+    text-align: left;
+}
+
+.bidslist{
+    border: 2px solid black;
+}

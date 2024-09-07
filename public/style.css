@@ -1,0 +1,66 @@
+body{
+    background: linear-gradient(109.7deg, rgb(202, 50, 50) 5.7%, rgb(252, 195, 12) 92.4%);
+}
+.products{
+    height: 20rem !important;
+    margin-bottom: 100px !important;
+}
+
+.pimg{
+    height: 35px !important;
+    width: 40px !important;
+    border-radius: 15px;
+}
+
+img{
+    height: 240px;
+}
+
+h4{
+    background-color: rgb(203, 131, 36) !important;
+}
+
+h2{
+    color: rgba(0, 0, 0, 0.588) !important;
+}
+.navbar-brand{
+    font-size:30px !important;
+    color: aliceblue !important;
+}
+.navbar {
+    background: linear-gradient(110.3deg, rgb(238, 179, 123) 8.7%, rgb(216, 103, 77) 47.5%, rgb(114, 43, 54) 89.1%) !important;
+}
+.profile{
+    border-radius: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+    word-spacing: 5px;
+    color: rgb(220, 220, 219);
+    background-color: orangered;
+    border: 1px solid orangered;
+    margin-right: 40px;
+    text-decoration: none !important;
+    font-weight: bold;
+}
+i{
+    color: black;
+}
+
+
+#price{
+    background-color:rgb(190, 160, 10)!important;
+    color:white;
+  text-align: center;
+border-radius: 70px;
+    padding: 10px;
+    margin-left: 43%;
+    margin-right: 43%;
+opacity:0.9 !important;
+    font-weight: bolder;
+    border: 2px solid gainsboro;
+}
+#ads{
+    width:55% !important;
+    margin-left: 25% !important;
+    margin-right: 10% !important;
+}
